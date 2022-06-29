@@ -1,2 +1,3 @@
-# react-redux-todoapp
-React Redux Todo App 
+# React Redux Todo App
+
+React Redux Todo App
